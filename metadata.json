@@ -1,0 +1,6 @@
+{
+  "name": "SchemaGuardian AI",
+  "description": "Autonomous database architect, 3NF/BCNF normalization engine, migration script generator, and security compliance officer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
